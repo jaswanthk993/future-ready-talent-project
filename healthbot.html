@@ -1,1 +1,7 @@
-<iframe src='https://webchat.botframework.com/embed/healthbot-xbkjz6e=ZO9M4UAKZYM.6YAX7pW-r85ei5n2is9c4i2npJ35-wMkhPs2Rn-0wnc'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+<div id="webchat" role="main"></div>
+<script src="https://cdn.botframework.com/botframework-webchat/latest/webchat.js"></script>
+<script>
+  window.WebChat.renderWebChat({
+    directLine: window.WebChat.createDirectLine({ secret: 'ZO9M4UAKZYM.6YAX7pW-r85ei5n2is9c4i2npJ35-wMkhPs2Rn-0wnc' })
+  }, document.getElementById('webchat'));
+</script>
