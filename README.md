@@ -57,7 +57,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize this template further based on your project's specific details and requirements. Good luck with your project!
-``` 
-
 Note: Replace placeholders such as 'jaswanth kumar' and update the content based on your project's specific details.
