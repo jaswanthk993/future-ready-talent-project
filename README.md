@@ -42,3 +42,6 @@ Follow these steps to set up and run the project locally.
 
 Visit [https://jaswanthk993.github.io/future-ready-talent-project/]
 Visit [https://proud-dune-0b60e9810.4.azurestaticapps.net/]
+here is my demo video url
+https://drive.google.com/file/d/1mzRYVoCXT1R6eSSHhf6K6nMhxCUSUECK/view?usp=sharing 
+
